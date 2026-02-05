@@ -15,7 +15,7 @@
 <li>Изображения объектов или субъектов с соответствующими пояснениями и комментариями; </li>
 <li>Страницу для решения и представления алгоритмической задачи см. <br>
     https://disk.360.yandex.ru/i/AXlRSFDSoWnfwA - список 2026 - номер задачи в файле 2026_разработкаВеб_приложений ШадринаЕВ_35_чел.xlsx <br>
-    https://evshadrina.github.io/WebApplications_2025/KR1_Task1.html - содержание задачи по ее номеру </li>
+    https://evshadrina.github.io/WebApplications_2026/KR1_Task1.html - содержание задачи по ее номеру </li>
 <li>Страницу с требованиями из https://github.com/vmarshirov/WebApplicationsDevelopment/blob/main/task1/education.txt </li>
 </ol>
 <h2>Даты защита контрольной работы 1: 2025-03-13 группы 1,2 <br>
